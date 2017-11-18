@@ -20,17 +20,17 @@ Textbook: Mathematics and Its History by John Stillwell
 - 14 Mechanics and curves
 - 15 _Complex numbers_ and _algebra_
 - 16 _Differential geometry_
-- 17 Topology
-- 18 Hypercomplex numbers
+- 17 _Topology_
+- 18 _Hypercomplex numbers_
 - 19 Complex numbers and curves
-- 20 Group The_Story_of_Maths
+- 20 _Group_ The_Story_of_Maths
 - 21 Galois theory I
 - 22 Algebraic number theory and rings
 - 23 Simple groups, Lie groups, and the search for symmetry
 - 24 Number systems and Stevin's decimals
 - 25 Problems with Calculus
 - 26 Matrices, determinants and the birth of Linear Algebra
-- 27 Sets, logic and computability
+- 27 Sets, logic and _computability_
 - 28 Computability and problems with _Set theory_
 - 29 Combinatorics
 - 30 Ancient astronomy in Babylon and China
