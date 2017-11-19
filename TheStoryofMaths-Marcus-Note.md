@@ -2,6 +2,8 @@
 
 # [数学史](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%8F%B2)
 
+# [数学家](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%88%97%E8%A1%A8)
+
 **Ep 1/4: The Language of the Universe**
 
 埃及,巴比伦,希腊
