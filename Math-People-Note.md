@@ -1,8 +1,22 @@
 # [The Story of Maths](https://en.wikipedia.org/wiki/The_Story_of_Maths)
 
+Bellow is mainly the info introduced in "The story of Maths" by Marcus.
+
 # [数学史](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%8F%B2)
 
 # [数学家](https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%88%97%E8%A1%A8)
+
+--------------------------------------------------------------------------------
+
+## 数学包含的内容
+
+- 语言
+- 结构, 关系
+- 空间, 时间
+- 数
+- 形
+
+--------------------------------------------------------------------------------
 
 **Ep 1/4: The Language of the Universe**
 
